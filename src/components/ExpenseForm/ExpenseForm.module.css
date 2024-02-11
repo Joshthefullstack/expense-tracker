@@ -1,0 +1,7 @@
+.form_control{
+  display: flex;
+  /* align-items: center; */
+  gap: .5em;
+  margin-bottom: 1em;
+  flex-direction: column;
+}
